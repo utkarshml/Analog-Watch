@@ -126,7 +126,7 @@ width: .7rem;
             position: absolute;
             transform: rotate(90deg);
             justify-content: center;
-            background-color: black;
+            background-color: rgb(185, 19, 19);
             height: 3rem;
             width: .7rem;
             }
